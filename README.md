@@ -52,13 +52,13 @@ Visualização de Dados (Power BI)
 Os dados processados na nuvem foram importados via consulta direta para o Power BI Desktop, onde foi construído um dashboard executivo seguindo os mais altos padrões estéticos e de Data Storytelling do mercado.
 Imagens do Portfólio:
 1. Dashboard Executivo Finalizado
-![Dashboard de Mobilidade](imagens/dashboard.png)
+![Dashboard de Mobilidade](dashboard.png)
 
 2. Ambiente de Desenvolvimento SQL (Google BigQuery)
-![Query SQL](imagens/query_sql_taxi.png)
+![Query SQL](query_sql_taxi.png)
 
 3. Auditoria e Validação das 72 Linhas Geradas
-![Resultado do Banco](imagens/resultado_banco_dados.png)
+![Resultado do Banco](resultado_banco_dados.png)
 
 
 Diferenciais do Design Aplicado:
